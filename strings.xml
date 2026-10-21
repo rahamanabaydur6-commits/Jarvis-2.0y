@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_description">Lets JARVIS perform Back, Home, Scroll and Tap actions only after you approve them in the app. It never runs in the background on its own.</string>
+</resources>
